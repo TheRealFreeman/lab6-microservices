@@ -1,4 +1,4 @@
-##Activities:
+## Activities:
 
 * **The two microservices accounts (2222) and web are running and registered (two terminals, logs screenshots):**
 
